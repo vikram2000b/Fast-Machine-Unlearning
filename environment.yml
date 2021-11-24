@@ -1,4 +1,4 @@
-name: vikram_torch
+name: Unlearning_Env
 channels:
   - https://public.dhe.ibm.com/ibmdl/export/pub/software/server/ibm-ai/conda
   - huggingface
