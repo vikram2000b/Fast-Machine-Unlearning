@@ -282,4 +282,3 @@ dependencies:
     - setuptools==58.1.0
     - ttach==0.0.3
     - wheel==0.37.0
-prefix: /home/users/visionintelligence/.conda/envs/vikram_torch
